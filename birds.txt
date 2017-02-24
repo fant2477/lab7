@@ -1,42 +1,49 @@
-
-นกทะเล Albatross
-ค้างคาว
-ผึ้ง
-ปักษาสวรรค์
-นก Blue jay
-ผึ้ง Bumblebee
-ผีเสื้อ
-นกขมิ้น
-นกกระตั้ว
-นกจำพวกแร้ง
-นก Crane
-อีกา
-นกพิราบ
-นกอินทรีย์
-นกอีมู
-เหยี่ยวนกเขา
-นกกระเรียน
-ค้างคาว Flying Fox
-ห่าน
-นก guineafowl
-นก Halcyon
-เหยี่ยว
-นกกระสา
-แตน
-แมลงวันบ้าน
-นก Hummingbird
-นกกระเต็น
-นก Lory
-นกมะคอ
-นกไนติงเกล
-นก Nutcracker
-นกกระจอกเทศ
-นกฮูก
-นกแก้ว
-นกกระทุง
-ไก่ฟ้า
-นกพิราบ
-นกพัฟฟิน
-นกกระทา
-นกกระสา
-หงส์
+Albatross
+Chicken
+Chough
+Crane
+Crow
+Curlew
+Dunlin
+Eagle
+Falcon
+Finch
+Flamingo
+Goose
+Goldfinch
+Goshawk
+Grouse
+Hawk
+Heron
+Hummingbird
+Jay
+Lapwing
+Lark
+Lyrebird
+Vulture
+Parrot
+Partridge
+Pelican
+Peafowl
+Pelican
+Peafowl
+Pheasant
+Porpoise
+Pigeon
+Porpoise
+Pigeon
+Pheasant
+Ostrich
+Octopus
+Owl
+Ruff
+Swan
+Swallow
+Stork
+Sandpiper
+Turkey
+Vulture
+Rook
+Raven
+Rail
+Quelea
